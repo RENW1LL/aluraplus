@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --cor-titulo: #FFFFFF;
+    --cor-secundaria: #C0C0C0;
+    --cor-bg: #00030C;
+    --cor-botao: #167BF7;
+}
+
+body {
+    background-color: var(--cor-bg);
+}
